@@ -94,9 +94,13 @@ This project intentionally focuses on **classical ML** to:
 Example confusion matrices from both models:
 
 - **Random Forest**
+
+  
 ![Random Forest Confusion Matrix](rf_confusion_matrix.png)
 
 - **XGBoost**
+
+  
 ![XGBoost Confusion Matrix](xgb_confusion_matrix.png)
 
 ---
