@@ -2,7 +2,7 @@
 
 This project focuses on identifying **whether two given questions are paraphrases** of each other — i.e., they convey the same meaning — using classical machine learning models. The dataset used is the [Question Pairs Dataset](https://www.kaggle.com/datasets/quora/question-pairs-dataset/data).
 
----
+----
 
 ##  Objective
 
